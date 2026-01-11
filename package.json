@@ -9,6 +9,19 @@
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+<<<<<<< HEAD
+    "cookie": "^1.1.1",
+    "express": "^5.2.1",
+    "postcss": "^8.5.6",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^0.0.0",
+    "send": "^1.2.1",
+    "serialize-javascript": "^7.0.2",
+    "serve-static": "^2.2.1",
+    "web-vitals": "^1.1.2",
+    "webpack": "^5.104.1"
+=======
     "components": "^0.1.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -16,6 +29,7 @@
     "styled": "^1.0.0",
     "styled-components": "^5.3.3",
     "web-vitals": "^1.1.2"
+>>>>>>> 78c4bed87a5638a1cc5df9ffed57a9ac71ee059b
   },
   "scripts": {
     "start": "react-scripts start",
